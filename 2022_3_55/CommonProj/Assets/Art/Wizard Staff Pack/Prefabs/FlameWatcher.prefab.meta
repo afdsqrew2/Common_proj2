@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f188bcb4633246640ad88d5bc6773d98
+labels:
+- staff
+- battle
+- wizard
+- wand
+- weapon
+- magic
+- power
+- spire
+- stave
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
